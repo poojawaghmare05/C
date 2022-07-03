@@ -61,27 +61,6 @@ int main()
 }
 
 
-/*
-
-iCnt = 1
-iCnt = 2
-iCnt = 3
-iCnt = 4
-
-iSum = 0
-
-iSum = iSum + 1;
-
-
-iSum = iSum + 2;
-
-
-iSum = iSum + 3;
-
-
-iSum = iSum + 4;
-
-*/
 
 
 
